@@ -1,4 +1,4 @@
-# yosefedery
+# Yosef Edery
 
 Hi there, I'm Yosef 👋
 
