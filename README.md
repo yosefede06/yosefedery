@@ -10,7 +10,7 @@ Hi there, I'm Yosef 👋
 
 📫 How to reach me: yosefede06@gmail.com
 
-🌐 Visit my website: www.yosef-edery.web.app
+🌐 Visit my website: https://yosef-edery.web.app
 
 <p align='center'>
 <!--     Technology --> 
