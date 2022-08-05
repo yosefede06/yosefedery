@@ -15,7 +15,7 @@ Hi there, I'm Yosef 👋
 <p align='center'>
 <!--     Technology --> 
 </p>
-<p align='center'>
+<p align='left'>
     <img align="center" alt="HTML" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
     <img align="center" alt="CSS" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
                                     <img align="center" alt="Bootstrap" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"/>
@@ -27,7 +27,7 @@ Hi there, I'm Yosef 👋
                                                                 <img align="center" alt="Python" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 
 ### Statistics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yosefede06&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
+[![Yosef's GitHub stats](https://github-readme-stats.vercel.app/api?username=yosefede06&theme=dark)](https://github.com/yosefede06/github-readme-stats)  
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yosefede06&theme=dark&show_icons=true&langs_count=10&card_width=450) --!>
 
 
