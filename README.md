@@ -28,7 +28,7 @@ Hi there, I'm Yosef 👋
 
 ### Statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yosefede06&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yosefede06&theme=dark&show_icons=true&langs_count=10&card_width=450)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yosefede06&theme=dark&show_icons=true&langs_count=10&card_width=450) --!>
 
 
 <!-- #### Education
@@ -64,7 +64,7 @@ Hi there, I'm Yosef 👋
 
 
 
-### Qualifications
+<!-- ### Qualifications
 
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) --!>
