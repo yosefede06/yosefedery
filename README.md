@@ -31,10 +31,10 @@ Hi there, I'm Yosef 👋
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yosefede06&theme=dark&show_icons=true&langs_count=10&card_width=450)
 
 
-#### Education
+<!-- #### Education
 - I've graduated from the Introduction to Node.js course on EDX.
 - I've previously taken courses in basic C# as well as visual effects.
-- I also have over 2 years of experience in Unity3D, including over a year of experience in C#.
+- I also have over 2 years of experience in Unity3D, including over a year of experience in C#. -->
 
 ### Social
 ![Telegram](https://img.shields.io/badge/Joogamer-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
