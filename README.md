@@ -7,7 +7,7 @@
 
 💬 Ask me about Everything
 
-📫 How to reach me: yosefede06@gmail.com
+📫 How to reach me: yosefedery@hotmail.es
 
 🌐 Visit my website: https://yosef-edery.web.app
 
