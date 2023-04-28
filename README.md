@@ -1,7 +1,7 @@
 # yosefedery
 <h2> Hey there, I'm Yosef. 👋</h2>
 
-🔭 I’m currently working on my B.S.c in Computer Science and Mathematics.
+🔭 I’m currently working on my B.S.c in Computer Science.
 
 👀 I’m interested in Algorithms and Cryptography.
 
