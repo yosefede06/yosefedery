@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on my B.S.c in Computer Science.
 
-👀 I’m interested in Algorithms and Cryptography.
+👀 I’m interested in Cryptography and Software Security.
 
 💬 Ask me about Everything
 
