@@ -1,8 +1,6 @@
 # yosefedery
 <h2> Hey there, I'm Yosef. 👋</h2>
 
-🔭 I’m currently working on my B.S.c in Computer Science.
-
 👀 I’m interested in Cryptography, Software Security and Communication Networks.
 
 💬 Ask me about Everything
