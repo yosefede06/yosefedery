@@ -7,7 +7,7 @@
 
 📫 How to reach me: yosefedery@hotmail.es
 
-🌐 Visit my website: https://yosef-edery.web.app
+🌐 Visit my website: yosef-edery.web.app
 
 <p align='center'>
 <!--     Technology --> 
