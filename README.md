@@ -28,6 +28,11 @@
 [![Yosef's GitHub stats](https://github-readme-stats.vercel.app/api?username=yosefede06&theme=dark)](https://github.com/yosefede06/github-readme-stats)  
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yosefede06&theme=dark&show_icons=true&langs_count=10&card_width=450) --!>
 
+<!-- #### Education
+- I've graduated from the Introduction to Node.js course on EDX.
+- I've previously taken courses in basic C# as well as visual effects.
+- I also have over 2 years of experience in Unity3D, including over a year of experience in C#. -->
+
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
