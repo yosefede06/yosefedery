@@ -28,28 +28,6 @@
 [![Yosef's GitHub stats](https://github-readme-stats.vercel.app/api?username=yosefede06&theme=dark)](https://github.com/yosefede06/github-readme-stats)  
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yosefede06&theme=dark&show_icons=true&langs_count=10&card_width=450) --!>
 
-
-<!-- #### Education
-- I've graduated from the Introduction to Node.js course on EDX.
-- I've previously taken courses in basic C# as well as visual effects.
-- I also have over 2 years of experience in Unity3D, including over a year of experience in C#. -->
-
-### Social
-![Telegram](https://img.shields.io/badge/Joogamer-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-
-### Experience in:
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-
-
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
