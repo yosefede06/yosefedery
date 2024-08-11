@@ -1,7 +1,7 @@
 # yosefedery
 <h2> Hey there, I'm Yosef. 👋</h2>
 
-👀 I’m interested in Cryptography, Software Security and Communication Networks.
+👀 I’m a software developer
 
 💬 Ask me about Everything
 
